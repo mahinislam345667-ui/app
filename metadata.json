@@ -1,0 +1,6 @@
+{
+  "name": "AgeLens AI",
+  "description": "Discover what AI sees in your selfie. Receive entertaining AI predictions for age, confidence, symmetry, style, skin health, roasts, compliments & more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
